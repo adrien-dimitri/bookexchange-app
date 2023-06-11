@@ -6,6 +6,7 @@ The book exchange app is a web platform that allows users to buy, sell, and trad
 
 ## Table of Contents
 * [Overview](#overview)
+* [Deployment](#deployment)
 * [Features](#features)
 * [Technologies](#technologies)
 * [Requirements](#requirements)
@@ -16,6 +17,12 @@ The book exchange app is a web platform that allows users to buy, sell, and trad
 The Book Exchange Web App is a Django-based platform designed to facilitate the buying, selling, and trading of textbooks among university students. 
 
 It provides a user-friendly interface and essential features to streamline the textbook exchange process and help students find the resources they need for their courses efficiently.
+
+## Deployment
+
+This project is deployed and hosted on [PythonAnywhere](https://www.pythonanywhere.com/).
+
+You can access the live version of the Book Exchange Web App at [https://adriendimitri.pythonanywhere.com/](https://adriendimitri.pythonanywhere.com/)
 
 ## Features
 - **User Registration**: Create an account and set up a personalized profile.
