@@ -58,7 +58,7 @@ You can access the live version of the Book Exchange Web App at [https://adriend
 Follow these steps to set up the Book Exchange Web App locally:
 
 - Clone the repository: git clone https://github.com/adrien-dimitri/bookexchange-app.git
-- Navigate to the project directory: ```cd book-exchange-app```
+- Navigate to the project directory: ```cd bookexchange-app```
 - Create a virtual environment: ```python -m venv venv```
 - Activate the virtual environment:
   - On Windows: ```venv\Scripts\activate```
